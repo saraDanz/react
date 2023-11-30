@@ -1,0 +1,13 @@
+.one-doctor {
+    border: 1px solid black;
+
+}
+
+.img-doctor {
+    width : 20%;
+    margin: auto;
+}
+
+.img-doctor img {
+    width: 100%;
+}
